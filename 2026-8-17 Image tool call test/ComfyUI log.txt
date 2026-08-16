@@ -1,0 +1,79 @@
+[INFO] Model SDXLClipModel prepared for dynamic VRAM loading. 1560MB Staged. 0 patches attached. Force pre-loaded 180 weights: 400 KB.
+[INFO] Model SDXL prepared for dynamic VRAM loading. 4896MB Staged. 0 patches attached. Force pre-loaded 512 weights: 1197 KB.
+100%|██████████| 20/20 [00:06<00:00,  2.97it/s]
+[INFO] Model SDXL prepared for dynamic VRAM loading. 4896MB Staged. 0 patches attached. Force pre-loaded 512 weights: 1197 KB.
+100%|██████████| 20/20 [00:06<00:00,  3.10it/s]
+[INFO] Model AutoencoderKL prepared for dynamic VRAM loading. 159MB Staged. 0 patches attached. Force pre-loaded 112 weights: 182 KB.
+[INFO] Prompt executed in 15.06 seconds
+[INFO] got prompt
+[INFO] Model SDXLClipModel prepared for dynamic VRAM loading. 1560MB Staged. 0 patches attached. Force pre-loaded 180 weights: 400 KB.
+[INFO] Model SDXL prepared for dynamic VRAM loading. 4896MB Staged. 0 patches attached. Force pre-loaded 512 weights: 1197 KB.
+100%|██████████| 20/20 [00:08<00:00,  2.32it/s]
+[INFO] Model SDXL prepared for dynamic VRAM loading. 4896MB Staged. 0 patches attached. Force pre-loaded 512 weights: 1197 KB.
+100%|██████████| 20/20 [00:08<00:00,  2.23it/s]
+[INFO] Model AutoencoderKL prepared for dynamic VRAM loading. 159MB Staged. 0 patches attached. Force pre-loaded 112 weights: 182 KB.
+[INFO] Prompt executed in 19.56 seconds
+[INFO] got prompt
+[INFO] Model SDXLClipModel prepared for dynamic VRAM loading. 1560MB Staged. 0 patches attached. Force pre-loaded 180 weights: 400 KB.
+[INFO] Model SDXL prepared for dynamic VRAM loading. 4896MB Staged. 0 patches attached. Force pre-loaded 512 weights: 1197 KB.
+100%|██████████| 20/20 [00:08<00:00,  2.31it/s]
+[INFO] Model SDXL prepared for dynamic VRAM loading. 4896MB Staged. 0 patches attached. Force pre-loaded 512 weights: 1197 KB.
+100%|██████████| 20/20 [00:08<00:00,  2.26it/s]
+[INFO] Model AutoencoderKL prepared for dynamic VRAM loading. 159MB Staged. 0 patches attached. Force pre-loaded 112 weights: 182 KB.
+[INFO] Prompt executed in 19.19 seconds
+[INFO] got prompt
+[INFO] Model SDXLClipModel prepared for dynamic VRAM loading. 1560MB Staged. 0 patches attached. Force pre-loaded 180 weights: 400 KB.
+[INFO] Model SDXL prepared for dynamic VRAM loading. 4896MB Staged. 0 patches attached. Force pre-loaded 512 weights: 1197 KB.
+100%|██████████| 20/20 [00:09<00:00,  2.08it/s]
+[INFO] Model SDXL prepared for dynamic VRAM loading. 4896MB Staged. 0 patches attached. Force pre-loaded 512 weights: 1197 KB.
+100%|██████████| 20/20 [00:09<00:00,  2.18it/s]
+[INFO] Model AutoencoderKL prepared for dynamic VRAM loading. 159MB Staged. 0 patches attached. Force pre-loaded 112 weights: 182 KB.
+[INFO] Prompt executed in 20.78 seconds
+[INFO] got prompt
+[INFO] Model SDXLClipModel prepared for dynamic VRAM loading. 1560MB Staged. 0 patches attached. Force pre-loaded 180 weights: 400 KB.
+[INFO] Model SDXL prepared for dynamic VRAM loading. 4896MB Staged. 0 patches attached. Force pre-loaded 512 weights: 1197 KB.
+100%|██████████| 20/20 [00:06<00:00,  3.00it/s]
+[INFO] Model SDXL prepared for dynamic VRAM loading. 4896MB Staged. 0 patches attached. Force pre-loaded 512 weights: 1197 KB.
+100%|██████████| 20/20 [00:06<00:00,  3.09it/s]
+[INFO] Model AutoencoderKL prepared for dynamic VRAM loading. 159MB Staged. 0 patches attached. Force pre-loaded 112 weights: 182 KB.
+[INFO] Prompt executed in 15.08 seconds
+[INFO] got prompt
+[INFO] Model SDXLClipModel prepared for dynamic VRAM loading. 1560MB Staged. 0 patches attached. Force pre-loaded 180 weights: 400 KB.
+[INFO] Model SDXL prepared for dynamic VRAM loading. 4896MB Staged. 0 patches attached. Force pre-loaded 512 weights: 1197 KB.
+100%|██████████| 20/20 [00:09<00:00,  2.06it/s]
+[INFO] Model SDXL prepared for dynamic VRAM loading. 4896MB Staged. 0 patches attached. Force pre-loaded 512 weights: 1197 KB.
+100%|██████████| 20/20 [00:09<00:00,  2.22it/s]
+[INFO] Model AutoencoderKL prepared for dynamic VRAM loading. 159MB Staged. 0 patches attached. Force pre-loaded 112 weights: 182 KB.
+[INFO] Prompt executed in 20.67 seconds
+[INFO] got prompt
+[INFO] Model SDXLClipModel prepared for dynamic VRAM loading. 1560MB Staged. 0 patches attached. Force pre-loaded 180 weights: 400 KB.
+[INFO] Model SDXL prepared for dynamic VRAM loading. 4896MB Staged. 0 patches attached. Force pre-loaded 512 weights: 1197 KB.
+100%|██████████| 20/20 [00:08<00:00,  2.45it/s]
+[INFO] Model SDXL prepared for dynamic VRAM loading. 4896MB Staged. 0 patches attached. Force pre-loaded 512 weights: 1197 KB.
+100%|██████████| 20/20 [00:09<00:00,  2.16it/s]
+[INFO] Model AutoencoderKL prepared for dynamic VRAM loading. 159MB Staged. 0 patches attached. Force pre-loaded 112 weights: 182 KB.
+[INFO] Prompt executed in 19.26 seconds
+[INFO] got prompt
+[INFO] Model SDXLClipModel prepared for dynamic VRAM loading. 1560MB Staged. 0 patches attached. Force pre-loaded 180 weights: 400 KB.
+[INFO] Model SDXL prepared for dynamic VRAM loading. 4896MB Staged. 0 patches attached. Force pre-loaded 512 weights: 1197 KB.
+100%|██████████| 20/20 [00:09<00:00,  2.04it/s]
+[INFO] Model SDXL prepared for dynamic VRAM loading. 4896MB Staged. 0 patches attached. Force pre-loaded 512 weights: 1197 KB.
+100%|██████████| 20/20 [00:09<00:00,  2.13it/s]
+[INFO] Model AutoencoderKL prepared for dynamic VRAM loading. 159MB Staged. 0 patches attached. Force pre-loaded 112 weights: 182 KB.
+[INFO] Prompt executed in 21.13 seconds
+[INFO] got prompt
+[INFO] Model SDXLClipModel prepared for dynamic VRAM loading. 1560MB Staged. 0 patches attached. Force pre-loaded 180 weights: 400 KB.
+[INFO] Model SDXL prepared for dynamic VRAM loading. 4896MB Staged. 0 patches attached. Force pre-loaded 512 weights: 1197 KB.
+100%|██████████| 20/20 [00:09<00:00,  2.13it/s]
+[INFO] Model SDXL prepared for dynamic VRAM loading. 4896MB Staged. 0 patches attached. Force pre-loaded 512 weights: 1197 KB.
+100%|██████████| 20/20 [00:08<00:00,  2.26it/s]
+[INFO] Model AutoencoderKL prepared for dynamic VRAM loading. 159MB Staged. 0 patches attached. Force pre-loaded 112 weights: 182 KB.
+[INFO] Prompt executed in 20.17 seconds
+[INFO] got prompt
+[INFO] Model SDXLClipModel prepared for dynamic VRAM loading. 1560MB Staged. 0 patches attached. Force pre-loaded 180 weights: 400 KB.
+[INFO] Model SDXL prepared for dynamic VRAM loading. 4896MB Staged. 0 patches attached. Force pre-loaded 512 weights: 1197 KB.
+100%|██████████| 20/20 [00:09<00:00,  2.20it/s]
+[INFO] Model SDXL prepared for dynamic VRAM loading. 4896MB Staged. 0 patches attached. Force pre-loaded 512 weights: 1197 KB.
+100%|██████████| 20/20 [00:06<00:00,  3.06it/s]
+[INFO] Model AutoencoderKL prepared for dynamic VRAM loading. 159MB Staged. 0 patches attached. Force pre-loaded 112 weights: 182 KB.
+[INFO] Prompt executed in 17.58 seconds
