@@ -76,4 +76,4 @@ Ollama, ComfyUI를 연동하여 LLM 및 이미지 생성 환경을 구성한다.
 - 관리: 모델별 불필요한 기능,도구를 꺼 input tokens 를 크게 줄여 모델 응답속도와 컨텍스트 사용량, 자원 사용량을 향상 *(동일 프롬프트의 첫 질문에서 input tokens 44% 감소, Total Duration 31.6s → 22.7s)
 - 인터페이스: 모델별 프롬프트 제안 설정 → 모델별 주요 기능을 쉽게 사용할 수 있도록 구성
 - 보안: Docker 기반 OpenWebUI 서비스에 Cloudflare Tunnel을 연동하여 포트 개방 없이 HTTPS 루트 도메인(artigold.com) 배포 완료
-- 
+- UI/브랜딩 커스텀: 서비스 명칭(`Artigo`) 및 파비콘/로고 교체, LLM 모델 아이콘 커스텀 적용 후 도커 컨테이너 재빌드 (로고 에셋은 ChatGPT를 활용해 제작)
