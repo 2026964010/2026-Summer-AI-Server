@@ -2,8 +2,8 @@
 
 ## 프로젝트 소개
 
-WSL, Docker를 활용해 OpenWebUI 기반 로컬 AI 서버를 구축하고,
-Ollama, ComfyUI를 연동하여 LLM 및 이미지 생성 환경을 구성한다.
+WSL과 Docker를 기반으로 OpenWebUI, Ollama, ComfyUI를 연동한 로컬 AI 서버를 구축.
+LLM 대화, 웹 검색, 이미지 생성 기능을 하나의 환경에서 사용할 수 있도록 구성하고, 사용자 관리 및 서버 기능을 커스터마이징
 
 ## 개발 환경
 
@@ -77,3 +77,8 @@ Ollama, ComfyUI를 연동하여 LLM 및 이미지 생성 환경을 구성한다.
 - 인터페이스: 모델별 프롬프트 제안 설정 → 모델별 주요 기능을 쉽게 사용할 수 있도록 구성
 - 보안: Docker 기반 OpenWebUI 서비스에 Cloudflare Tunnel을 연동하여 포트 개방 없이 HTTPS 루트 도메인(artigold.com) 배포 완료
 - UI/브랜딩 커스텀: 서비스 명칭(`Artigo`) 및 파비콘/로고 교체, LLM 모델 아이콘 커스텀 적용 후 도커 컨테이너 재빌드 (로고 에셋은 ChatGPT를 활용해 제작)
+
+
+### 2026-08-20
+
+- OpenWebUI Tavily 백엔드 검색 로직을 수정하여 최신 정보 검색 정확도 개선 및 검색 결과 Payload 최적화
